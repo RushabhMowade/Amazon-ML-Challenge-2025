@@ -1,4 +1,4 @@
-# 📦 Product Price Predictor
+# 📦 Product Price Predictor 
 
 A multimodal ML pipeline for e-commerce product price prediction using text and image embeddings.
 
