@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+numpy
+pillow
+scikit-learn
+lightgbm
+joblib
+tensorflow
+scipy
+ftfy
